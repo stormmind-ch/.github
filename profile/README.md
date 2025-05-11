@@ -8,7 +8,7 @@ StormMind is a Bachelor's thesis project focused on developing a deep learning s
 
 ## 📁 Project Structure
 
-The project consists of **three main repositories**:
+The project consists of **three public repositories**:
 
 ### 🧠 [`ai`](https://github.com/stormmind-ch/ai)
 > The deep learning engine of StormMind
