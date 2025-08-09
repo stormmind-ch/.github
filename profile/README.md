@@ -25,7 +25,7 @@ The project consists of **three public repositories**:
 - Connects frontend with predictions and weather input
 - Handles inference, logging, and validation
 
-### 🖥️ [`frontend`](https://github.com/stormmind-ch/frontend) (currently under construction and not ready yet)
+### 🖥️ [`frontend`](https://github.com/stormmind-ch/frontend)
 > Interactive dashboard for users (React.js + Vite.js)
 
 - Map visualization of predicted storm damage
